@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rachelchong23
-- 👀 I’m interested in Design, Interactive Machine learning driven design, Data visualisation
+- 👀 I’m interested in Design, Interactive Machine learning driven design, Data visualisation. You can find my portfolio at rachelchong.cargo.site
 - 🌱 I’m currently learning Python, R and SQL
-- 📫 How to reach me ...
+- 📫 You can reach me at rachelchongwc@gmail.com
 
 <!---
 Rachelchong23/Rachelchong23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
